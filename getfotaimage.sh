@@ -1,0 +1,1 @@
+wget -c -T 5 -P /run/ 'http://dl1.askeycloudapi.com/HAITEC/CBG0200-D122/VIG2-4G-StageB/2.0.06/release_2.0.06.tar.gz'
